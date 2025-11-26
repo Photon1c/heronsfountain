@@ -1,0 +1,43 @@
+{
+  "name": "herons-fountain-simulation",
+  "version": "1.0.0",
+  "description": "Interactive 3D simulation of Heron's Fountain using Three.js - demonstrating ancient Greek fluid dynamics principles",
+  "main": "src/herons_fountain/main.js",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "heron",
+    "fountain",
+    "threejs",
+    "3d",
+    "simulation",
+    "physics",
+    "fluid-dynamics",
+    "ancient-greece",
+    "hero-of-alexandria",
+    "interactive",
+    "education"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "three": "^0.178.0"
+  },
+  "devDependencies": {
+    "vite": "^6.3.5"
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "engines": {
+    "node": ">=14.0.0",
+    "npm": ">=6.0.0"
+  }
+}
+
