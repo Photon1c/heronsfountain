@@ -2,7 +2,7 @@
 
 A stunning Three.js-based interactive simulation of Heron's Fountain, demonstrating the ancient Greek principle of fluid dynamics and air pressure invented by Hero of Alexandria (c. 62 CE).
 
-**Live Demo**: [Coming Soon]
+**Live Demo**: [Now available here!](https://heronsfountain.netlify.app/)
 
 ## 🏗️ Features
 
